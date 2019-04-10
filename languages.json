@@ -1,0 +1,105 @@
+{
+    "languages" :
+    [
+        {
+            "language": "Chinese", "num_speakers": 1311000000, 
+            "num_countries": 39, "main_country": "China", "main_continent": "Asia"
+          },
+          {
+            "language": "Spanish", "num_speakers": 460000000, 
+            "num_countries": 31, "main_country": "Spain", "main_continent": "Europe"
+          },
+          {
+            "language": "English", "num_speakers": 379000000, 
+            "num_countries": 137, "main_country": "United Kingdom", "main_continent": "Europe"
+          },
+          {
+            "language": "Hindi", "num_speakers": 341000000, 
+            "num_countries": 4, "main_country": "India", "main_continent": "Asia"
+          },
+          {
+            "language": "Arabic", "num_speakers": 319000000, 
+            "num_countries": 59, "main_country": "Saudi Arabia", "main_continent": "Asia"
+          },
+          {
+            "language": "Bengali", "num_speakers": 228000000, 
+            "num_countries": 4, "main_country": "Bangladesh", "main_continent": "Asia"
+          },
+          {
+            "language": "Portuguese", "num_speakers": 221000000, 
+            "num_countries": 15, "main_country": "Portugal", "main_continent": "Europe"
+          },
+          {
+            "language": "Russian", "num_speakers": 154000000, 
+            "num_countries": 19, "main_country": "Russia", "main_continent": "Europe"
+          },
+          {
+            "language": "Japanese", "num_speakers": 128000000, 
+            "num_countries": 2, "main_country": "Japan", "main_continent": "Asia"
+          },
+          {
+            "language": "Lahnda", "num_speakers": 119000000, 
+            "num_countries": 6, "main_country": "Pakistan", "main_continent": "Asia"
+          },
+          {
+            "language": "Marathi", "num_speakers": 83100000, 
+            "num_countries": 1, "main_country": "India", "main_continent": "Asia"
+          },
+          {
+            "language": "Telugu", "num_speakers": 82000000, 
+            "num_countries": 2, "main_country": "India", "main_continent": "Asia"
+          },
+          {
+            "language": "Malay", "num_speakers": 80300000, 
+            "num_countries": 20, "main_country": "Malaysia", "main_continent": "Asia"
+          },
+          {
+            "language": "Turkish", "num_speakers": 79400000, 
+            "num_countries": 8, "main_country": "Turkey", "main_continent": "Europe"
+          },
+          {
+            "language": "Korean", "num_speakers": 77300000, 
+            "num_countries": 6, "main_country": "South Korea", "main_continent": "Asia"
+          },
+          {
+            "language": "French", "num_speakers": 77200000, 
+            "num_countries": 54, "main_country": "France", "main_continent": "Europe"
+          },
+          {
+            "language": "German", "num_speakers": 76100000, 
+            "num_countries": 28, "main_country": "Germany", "main_continent": "Europe"
+          },
+          {
+            "language": "Vietnamese", "num_speakers": 76000000, 
+            "num_countries": 4, "main_country": "Vietnam", "main_continent": "Asia"
+          },
+          {
+            "language": "Tamil", "num_speakers": 75000000, 
+            "num_countries": 7, "main_country": "India", "main_continent": "Asia"
+          },
+          {
+            "language": "Urdu", "num_speakers": 68600000, 
+            "num_countries": 7, "main_country": "Pakistan", "main_continent": "Asia"
+          },
+          {
+            "language": "Javanese", "num_speakers": 68300000, 
+            "num_countries": 3, "main_country": "Indonesia", "main_continent": "Asia"
+          },
+          {
+            "language": "Italian", "num_speakers": 64800000, 
+            "num_countries": 14, "main_country": "Italy", "main_continent": "Europe"
+          },
+          {
+            "language": "Persian", "num_speakers": 61800000, 
+            "num_countries": 30, "main_country": "Iran", "main_continent": "Asia"
+          },
+          {
+            "language": "Gujarati", "num_speakers": 56400000, 
+            "num_countries": 7, "main_country": "India", "main_continent": "Asia"
+          },
+          {
+            "language": "Bhojpuri", "num_speakers": 53200000, 
+            "num_countries": 3, "main_country": "India", "main_continent": "Asia"
+          }
+    ]
+}
