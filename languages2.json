@@ -1,0 +1,106 @@
+{
+"languages" : {
+    "name": "Languages" , "children": [
+      {
+        "name": "Chinese", 
+        "value": 1311000000
+      },
+      {
+        "name": "Spanish", 
+        "value": 460000000
+      },
+      {
+        "name": "English", 
+        "value": 379000000
+      },
+      {
+        "name": "Hindi", 
+        "value": 341000000
+      },
+      {
+        "name": "Arabic", 
+        "value": 319000000
+      },
+      {
+        "name": "Bengali", 
+        "value": 228000000
+      },
+      {
+        "name": "Portuguese", 
+        "value": 221000000
+      },
+      {
+        "name": "Russian", 
+        "value": 154000000
+      },
+      {
+        "name": "Japanese", 
+        "value": 128000000
+      },
+      {
+        "name": "Lahnda", 
+        "value": 119000000
+      },
+      {
+        "name": "Marathi", 
+        "value": 83100000
+      },
+      {
+        "name": "Telugu", 
+        "value": 82000000
+      },
+      {
+        "name": "Malay", 
+        "value": 80300000
+      },
+      {
+        "name": "Turkish", 
+        "value": 79400000
+      },
+      {
+        "name": "Korean", 
+        "value": 77300000
+      },
+      {
+        "name": "French", 
+        "value": 77200000
+      },
+      {
+        "name": "German", 
+        "value": 76100000
+      },
+      {
+        "name": "Vietnamese", 
+        "value": 76000000
+      },
+      {
+        "name": "Tamil", 
+        "value": 75000000
+      },
+      {
+        "name": "Urdu", 
+        "value": 68600000
+      },
+      {
+        "name": "Javanese", 
+        "value": 68300000
+      },
+      {
+        "name": "Italian", 
+        "value": 64800000
+      },
+      {
+        "name": "Persian", 
+        "value": 61800000
+      },
+      {
+        "name": "Gujarati", 
+        "value": 56400000
+      },
+      {
+        "name": "Bhojpuri", 
+        "value": 53200000
+      },
+    ]
+  };
+  }
